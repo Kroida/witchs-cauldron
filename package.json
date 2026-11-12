@@ -1,0 +1,19 @@
+{
+  "name": "witch's-cauldron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "canvas-confetti": "^1.9.4",
+    "gsap": "^3.15.1",
+    "omggif": "^1.0.10",
+    "pngjs": "^7.0.0",
+    "vite": "^8.3.8"
+  }
+}
